@@ -209,7 +209,13 @@ body{
         display: grid;
         grid-template-columns: 1fr;
         grid-template-rows: repeat(3 30%);
-        margin: 3px;
+        margin: 50%;
+        margin-top: 10px;
+    }
+
+    .todasfotosviajes{
+       text-align: center;
+        
     }
     
     #referencias{
@@ -223,3 +229,9 @@ body{
    .none{
     display: none;
    }
+
+
+
+@media screen and { 
+    
+}
